@@ -47,3 +47,4 @@ def fibonacci(n):
             second_to_last, last = last, result
 
         return result
+
